@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5f2d150ebd3ced3154625d13"},"roles":["Administrator","Officer","Superuser","Translator","Secretary","ReadOnly"],"userEmail":"caruso@un.org","userName":"Test user","langs":["FR","RU"],"regimes":["Al-Qaida","Taliban"]}
+{"_id":{"$oid":"5f339f648705310954da10ea"},"roles":["Administrator","Secretary"],"langs":[],"regimes":["Taliban","Al-Qaida"],"userEmail":"jsigal@ix.netcom.com","userName":"jsigal"}
+{"_id":{"$oid":"5f3632a1ab4f87c2e2b18595"},"userEmail":"alexandar@unicc.org","langs":["CH","RU"],"roles":["Administrator","Translator"],"regimes":[]}
+{"_id":{"$oid":"5f363e16ab4f87c2e2b1898f"},"userEmail":"alessio.alfonsetti@un.org","langs":[],"roles":["Administrator"]}
+{"_id":{"$oid":"5f363e6bab4f87c2e2b189b1"},"userEmail":"andrew.walker@un.org","langs":["FR","RU"],"roles":["Officer","Translator"]}
+{"_id":{"$oid":"5f363f7367f7a1023093ca5f"},"roles":["Secretary"],"langs":[],"regimes":["Al-Qaida"],"userEmail":"alex3@gmail.com","userName":"alex"}

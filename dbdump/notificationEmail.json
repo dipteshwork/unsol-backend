@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5f2ab259f3def9062cf58364"},"emailType":"ReadOnly","emailTitle":"ReadOnly","emailDescription":"ReadOnly"}
+{"_id":{"$oid":"5f2ac12e793fb71d3061213b"},"emailType":"Officer","emailTitle":"Officer","emailDescription":"Officer"}
+{"_id":{"$oid":"5f2ac1c4793fb71d30612140"},"emailType":"Secretary","emailTitle":"Secretary","emailDescription":"Secretary"}
+{"_id":{"$oid":"5f2ac20e793fb71d30612143"},"emailType":"Translator","emailTitle":"Translator","emailDescription":"Translator"}
+{"_id":{"$oid":"5f2ac252793fb71d30612146"},"emailType":"Superuser","emailTitle":"Superuser","emailDescription":"Superuser"}
+{"_id":{"$oid":"5f2ac310b139d03314a521f0"},"emailType":"Administrator","emailTitle":"Administrator","emailDescription":"Administrator"}

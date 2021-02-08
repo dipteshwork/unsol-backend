@@ -1,0 +1,24 @@
+version: '3'
+services:
+  mongodb:
+    image: 'mongo'
+    container_name: 'sc-sanctions-mongodb'
+    environment:
+      - MONGO_INITDB_DATABASE=testdb
+    ports:
+      - 27017:27017
+    # volumes:
+    #   - ./dbdump/init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
+  server:
+    build: .
+    image: 'sc-sanctions-server'
+    container_name: 'sc-sanctions-server'
+    ports:
+      - 3000:3000
+    volumes:
+      - ./:/workspace
+    command: >
+      bash -c "
+        npm install &&
+        npm run start
+      "

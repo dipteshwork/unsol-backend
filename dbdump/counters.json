@@ -1,0 +1,2 @@
+{"_id":"entryIdCount","seq":{"$numberInt":"103"}}
+{"_id":{"$oid":"5d11cf7e1549bc8a6ad66b08"},"id":"sanctionEntry.entry.entryId","reference":null,"counter":{"$numberInt":"9"}}
